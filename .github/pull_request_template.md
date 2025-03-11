@@ -70,6 +70,6 @@ Closes: #<!-- Issue Number Here -->
 
 ## 📖 Contribution Guidelines
 
-Please make sure you have read our **[Contribution Guidelines](CONTRIBUTING.md)** before submitting a PR.
+Please make sure you have read our **[Contribution Guidelines](../CONTRIBUTING.md)** before submitting a PR.
 
 Thank you for contributing! 🚀✨
